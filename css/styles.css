@@ -1,0 +1,14 @@
+body{
+  background-image: url(http://static3.depositphotos.com/1007011/241/i/950/depositphotos_2415274-Roman-wall-background.jpg);
+}
+h1{
+  border: solid;
+  background-color: grey;
+  color: white;
+  font-weight: bold;
+  font-size: 80px;
+}
+.container{
+  border: solid;
+  background-color: blue;
+}
