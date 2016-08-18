@@ -26,7 +26,8 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 |converts the standard number | 1 | I|
 |convert standard single digit numbers | 5| V |
 | convert standard multi digit numbers| 10 | X |
-|number is correctly represented by sum of the numerals | 2 or 66 | II or LXVI |
+|number is correctly represented by sum of the numerals | 2 | II |
+|multi digit numbers numbers are correctly represented by sum of the numerals | 66 | LXVI |
 |do not repeat symbols more than 3 times | 4 | IV not IIII|
 |correctly implements subtraction in cases of triple repetition | 4 | IV (5-1=4) (would it be easier to think of it as -1+5=4??)|
 |separate ones, tens, hundreds, and thousands | 99 | XCIX (100-10 & 10-1), not IC (100-1)|
